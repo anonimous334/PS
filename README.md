@@ -15,6 +15,7 @@ Proiectul e la decizia voastra cum vreti sa il faceti, important e sa se vada ca
 Proiectul il puteti gasi si aici: 
 
 https://www.arxiv-vanity.com/papers/1912.11783/  - documentatie
+
 https://github.com/PolyuWirelessCommunicationLab/Channel-Estimation-for-Intelligent-Reflecting-Surface-Assisted-Multiuser-Communications - cod
 
 Succes si spor la treaba!
