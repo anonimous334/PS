@@ -3,7 +3,8 @@
 Va salut,
 
 
-Acest repository se recomanda celor care aveti PS, mai ales cu Marios Choudary, care sincer e cam naspa, desi rade tot timpul la curs.
+
+Acest repository se recomanda celor care aveti PS, mai ales cu Marious Choudary, care sincer e cam naspa, desi rade tot timpul la curs.
 
 Conditiile de trecere, pe cand eram eu la PS, erau destul de dificile si va recomand sa fiti atenti.
 
