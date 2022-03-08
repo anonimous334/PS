@@ -1,0 +1,12 @@
+ t = [0, pi/6, pi/4, pi/3, pi/2]; 
+ figure;
+ plot(exp(1i*t), 'ro');
+ hold on;
+ plot(exp(-1i*t), 'ro');
+ hold on;
+ s1 = exp(1i*t);
+ s2 = exp(-1i*t);
+ ss = (s1+s2)/2;
+ r = real(ss);
+ i = imag(ss);
+ plot(r,i);
